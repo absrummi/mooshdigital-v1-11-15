@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 161.702">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path id="curve" class="cls-1" d="M0-20.652s349.5-81.074,691-81.074,675,81.074,675,81.074V59.976H0Z" transform="translate(0 101.727)"/>
+</svg>

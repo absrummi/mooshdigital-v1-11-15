@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 80">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #00de6e;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="naviation-logo" transform="translate(-139 -164.017)">
+    <rect id="Rectangle_2542" data-name="Rectangle 2542" class="cls-1" width="80" height="80" rx="10" transform="translate(139 164.017)"/>
+    <g id="ic_flight_24px" transform="translate(180.248 172.011) rotate(45)">
+      <path id="Path_93" data-name="Path 93" d="M10.18,9" transform="translate(9.119 7.804)"/>
+      <path id="Path_94" data-name="Path 94" class="cls-2" d="M42.182,31.608v-4.23L25.263,16.8V5.172a3.172,3.172,0,0,0-6.344,0V16.8L2,27.378v4.23l16.919-5.287V37.952l-4.23,3.172V44.3l7.4-2.115,7.4,2.115V41.124l-4.23-3.172V26.321Z" transform="translate(0 0)"/>
+    </g>
+  </g>
+</svg>
